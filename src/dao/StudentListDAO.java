@@ -8,11 +8,6 @@ package dao;
  *
  * @author John
  */
-public interface StudentDAO {
+public class StudentListDAO {
+    
 }
- 
- 
- 
-
-
-
